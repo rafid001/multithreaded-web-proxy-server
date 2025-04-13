@@ -78,16 +78,6 @@ Located in the `ThreadPool` directory, this implementation:
 - **Producer-Consumer Pattern**: In the communication between server and client
 - **Thread Pool Pattern**: For optimized resource management
 
-## Skills Demonstrated
-
-- Advanced Java programming
-- Network programming and socket communication
-- Concurrent and parallel programming
-- Server architecture design and optimization
-- Performance tuning and benchmarking
-- Resource management and optimization
-- Scalable system design
-
 ## Future Enhancements
 
 This foundation could be extended to implement:
